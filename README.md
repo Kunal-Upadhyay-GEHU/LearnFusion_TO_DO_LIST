@@ -5,7 +5,7 @@ A simple web-based To-Do List application created by **Kunal Upadhyay**. You can
 ## Live Demo
 
 You can access the live demo of this To-Do List application by clicking the following link:
-[To-Do List Demo](https://kunal-upadhyay-gehu.github.io/To-Do-List/)
+[To-Do List Demo](https://kunal-upadhyay-gehu.github.io/LearnFusion_TO_DO_LIST/)
 
 ## Features
 
@@ -22,7 +22,7 @@ You can access the live demo of this To-Do List application by clicking the foll
 
 ## How to Use
 
-1. Visit the [live demo](https://kunal-upadhyay-gehu.github.io/To-Do-List/) of the To-Do List application.
+1. Visit the [live demo](https://kunal-upadhyay-gehu.github.io/LearnFusion_TO_DO_LIST/) of the To-Do List application.
 
 2. Enter a new task in the input field and press the "Add Task" button to add it to your to-do list.
 

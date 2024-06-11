@@ -39,6 +39,6 @@ You can access the live demo of this To-Do List application by clicking the foll
 - **Kunal Upadhyay**
 
 
-![To-Do List](https://via.placeholder.com/800x400.png?text=To-Do+List+App)
+![To-Do List](https://github.com/Kunal-Upadhyay-GEHU/LearnFusion_TO_DO_LIST/blob/main/Screenshot_11-6-2024_182131_kunal-upadhyay-gehu.github.io.jpeg)
 
 > *"Organize your life, one task at a time."*
